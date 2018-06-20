@@ -1,0 +1,16 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "\"Ex to try out NPM and learn Node\"",
+  "main": "index.html",
+  "scripts": {
+		"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"lite": "lite-server"
+  },
+  "author": "badGarnet",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
